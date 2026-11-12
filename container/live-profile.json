@@ -1,0 +1,11 @@
+{
+  "name": "dev",
+  "recording_config": {
+    "part_ttl": 86400,
+    "connection_timeout": 3600,
+    "reconnect_timeout": 3600
+  },
+  "playout_config": {
+    "playout_formats": ["hls-clear", "dash-clear"]
+  }
+}
